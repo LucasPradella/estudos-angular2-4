@@ -1,5 +1,6 @@
-
 ng new primeiro-projeto  -> criando projeto
 ng g c meu-primeiro2     -> criando component
 ng serve                 -> compilando e subindo projeto
-tsc main.ts   -> compilar um arquivo typescript
+tsc main.ts    			 -> compilar um arquivo typescript
+ng g module cursos 		 -> criar modulo
+ng g service cursos      -> criar service
