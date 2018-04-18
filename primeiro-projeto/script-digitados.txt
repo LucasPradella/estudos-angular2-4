@@ -1,0 +1,3 @@
+ng new primeiro-projeto  -> criando projeto
+ng g c meu-primeiro2     -> criando component
+ng serve                 -> compilando e subindo projeto
